@@ -1,0 +1,4 @@
+#Sat Apr 04 15:50:20 IST 2020
+base.0=/home/shivam/Desktop/YT/x9cinema_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
